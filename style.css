@@ -1,0 +1,96 @@
+
+#dog1 {
+  width: 200px;
+  height: 800px;
+  border-radius: 4px;
+  margin: auto;
+
+}
+
+#dog2 {
+    width: 200px;
+    height: 800px;
+    border-radius: 4px;
+    margin: auto;
+
+}
+
+#dog3 {
+    width: 200px;
+    height: 800px;
+    border-radius: 4px;
+    margin: auto;
+
+}
+
+#dog5 {
+    width: 200px;
+    height: 800px;
+    border-radius: 4px;
+    margin-right: 500px;
+
+}
+
+#par {
+    position: fixed;
+    font-size: 12px;
+    top: 0px;
+}
+
+p a {
+    font-size: 50px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: greenyellow;
+}
+
+a img:hover {
+    opacity: 0.8;
+}
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    border-radius: 4px;
+    box-shadow: 0 0 2px grey;
+}
+
+#back {
+    background-image: url(https://sites.google.com/site/prirodanaha/_/rsrc/1468741750018/home/%D0%96%D0%B8%D0%B2%D0%B0%D1%8F-%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%B0.jpg);
+}
+
+.transform{
+   transition: all 1s ease-out;
+}
+.transform:hover{
+   transform: scale(1.2);
+}
+
+#searchButton {
+    margin-top: 10px !important;
+    color: blanchedalmond;
+    border-color: blanchedalmond;
+}
+
+#searchButton:hover {
+    border-color: #28a745;
+}
+
+
+
+/* .transform:hover{
+   animation: increase 2s ease;
+}
+
+@keyframes increase {
+   from {
+       transform: none;
+   }
+   to {
+       transform: scale(1.2);
+   }
+} */
